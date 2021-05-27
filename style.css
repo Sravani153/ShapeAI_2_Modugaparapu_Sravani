@@ -1,0 +1,33 @@
+.navbar{
+    background-color: rgb(17, 16, 19);
+}
+.navbar:hover{
+    background-color: blueviolet;
+}
+.nav-link{
+    margin-left: 10em;
+}
+.navbar-brand{
+    margin-right: 2em;
+    color: brown;
+    cursor: pointer;
+}
+.navbar-toggler{
+    background-color: blue;
+}
+.navbar-toggler:hover{
+    background-color: blueviolet;
+}
+
+.modal-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  size: 50px;
+ background-attachment: fixed;
+  color: rgb(170, 20, 20);
+ 
+  text-align: center;
+  display: block;
+}
